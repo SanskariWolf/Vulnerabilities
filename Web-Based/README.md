@@ -1,4 +1,4 @@
-Blin[[SQL Injection]]
+[[SQL Injection]]
 [[Blind SQL Injection]]
 [[Time-Based SQL Injection]]
 [[Boolean-Based SQL Injection]]
@@ -102,6 +102,6 @@ Known Vulnerable Library Usage
 Improper Certificate Management
 Missing Multi-Factor Authentication
 Insecure Third-Party Integration
-Unvalidated Webhook
-Broken OAuth Implementation
-Improper Token Validation
+[[Unvalidated Webhook]]
+[[Broken OAuth Implementation]]
+[[Improper Token Validation]]
