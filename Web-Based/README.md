@@ -99,9 +99,9 @@ Improper Error Handling
 Dependency Vulnerability (SCA)
 Outdated Software Components
 Known Vulnerable Library Usage
-Improper Certificate Management
-Missing Multi-Factor Authentication
-Insecure Third-Party Integration
+[[Improper Certificate Management]]
+[[Missing Multi-Factor Authentication]]
+[[Insecure Third-Party Integration]]
 [[Unvalidated Webhook]]
 [[Broken OAuth Implementation]]
 [[Improper Token Validation]]
