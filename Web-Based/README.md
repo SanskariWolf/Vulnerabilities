@@ -96,9 +96,9 @@ Backup File Exposure
 Source Code Disclosure
 Directory Listing Enabled
 Improper Error Handling
-Dependency Vulnerability (SCA)
-Outdated Software Components
-Known Vulnerable Library Usage
+[[Dependency Vulnerability (SCA)]]
+[[Outdated Software Components]]
+[[Known Vulnerable Library Usage]]
 [[Improper Certificate Management]]
 [[Missing Multi-Factor Authentication]]
 [[Insecure Third-Party Integration]]
