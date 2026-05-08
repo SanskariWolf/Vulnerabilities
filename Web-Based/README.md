@@ -93,9 +93,9 @@ Insufficient Logging
 Exposed Admin Interface
 Default Credentials Usage
 Backup File Exposure
-Source Code Disclosure
-Directory Listing Enabled
-Improper Error Handling
+[[Source Code Disclosure]]
+[[Directory Listing Enabled]]
+[[Improper Error Handling]]
 [[Dependency Vulnerability (SCA)]]
 [[Outdated Software Components]]
 [[Known Vulnerable Library Usage]]
