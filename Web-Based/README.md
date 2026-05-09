@@ -90,9 +90,9 @@ Improper Logging and Monitoring
 Log Injection
 Lack of Audit Trail
 Insufficient Logging
-Exposed Admin Interface
-Default Credentials Usage
-Backup File Exposure
+[[Exposed Admin Interface]]
+[[Default Credentials Usage]]
+[[Backup File Exposure]]
 [[Source Code Disclosure]]
 [[Directory Listing Enabled]]
 [[Improper Error Handling]]
