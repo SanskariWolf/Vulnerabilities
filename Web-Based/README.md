@@ -81,9 +81,9 @@ JWT Signature Bypass
 JWT None Algorithm Attack
 Improper Session Timeout
 Insecure Cookies
-Missing HttpOnly Flag
-Missing Secure Flag
-Missing SameSite Attribute
+[[Missing HttpOnly Flag]]
+[[Missing Secure Flag]]
+[[Missing SameSite Attribute]]
 [[API Key Exposure]]
 [[Hardcoded API Keys]]
 [[Improper Logging and Monitoring]]
