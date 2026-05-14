@@ -78,9 +78,9 @@ User Enumeration
 Insecure Logout
 Token Leakage
 JWT Signature Bypass
-JWT None Algorithm Attack
-Improper Session Timeout
-Insecure Cookies
+[[JWT None Algorithm Attack]]
+[[Improper Session Timeout]]
+[[Insecure Cookies]]
 [[Missing HttpOnly Flag]]
 [[Missing Secure Flag]]
 [[Missing SameSite Attribute]]
