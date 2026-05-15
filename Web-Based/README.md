@@ -75,9 +75,9 @@ Credential Stuffing
 Brute Force Attack
 Account Enumeration
 User Enumeration
-Insecure Logout
-Token Leakage
-JWT Signature Bypass
+[[Insecure Logout]]
+[[Token Leakage]]
+[[JWT Signature Bypass]]
 [[JWT None Algorithm Attack]]
 [[Improper Session Timeout]]
 [[Insecure Cookies]]
