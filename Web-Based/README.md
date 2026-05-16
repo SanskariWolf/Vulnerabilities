@@ -58,9 +58,9 @@ Lack of Rate Limiting
 Excessive Data Exposure
 Broken Object Level Authorization (BOLA)
 Broken Function Level Authorization
-Improper Asset Management
-Shadow API Exposure
-GraphQL Injection
+[[Improper Asset Management]]
+[[Shadow API Exposure]]
+[[GraphQL Injection]]
 NoSQL Injection
 LDAP Injection
 XPath Injection
