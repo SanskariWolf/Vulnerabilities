@@ -28,9 +28,9 @@ Open Redirect
 Clickjacking
 Security Misconfiguration
 [[Sensitive Data Exposure]]
-Insecure Data Storage
-Hardcoded Credentials
-Information Disclosure
+[[Insecure Data Storage]]
+[[Hardcoded Credentials]]
+[[Information Disclosure]]
 Verbose Error Messages
 Debug Mode Enabled
 Missing Security Headers
