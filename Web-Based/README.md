@@ -65,9 +65,9 @@ NoSQL Injection
 LDAP Injection
 XPath Injection
 CRLF Injection
-HTTP Request Smuggling
-HTTP Response Splitting
-Cache Poisoning
+[[HTTP Request Smuggling]]
+[[HTTP Response Splitting]]
+[[Cache Poisoning]]
 DNS Rebinding
 Misconfigured CORS
 Wildcard CORS Policy
