@@ -72,9 +72,9 @@ DNS Rebinding
 Misconfigured CORS
 Wildcard CORS Policy
 Credential Stuffing
-Brute Force Attack
-Account Enumeration
-User Enumeration
+[[Brute Force Attack]]
+[[Account Enumeration]]
+[[User Enumeration]]
 [[Insecure Logout]]
 [[Token Leakage]]
 [[JWT Signature Bypass]]
